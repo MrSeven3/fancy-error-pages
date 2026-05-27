@@ -8,10 +8,17 @@
     color: oklch(0.7176 0.1839 304.77);
     font-size: 96px;
     margin-bottom: 0;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
   }
 
   p {
     margin-top: 0;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
   }
 }
